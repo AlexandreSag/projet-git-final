@@ -1,0 +1,9 @@
+{
+  "name": "projet-git-final",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Projet Git final",
+  "scripts": {
+    "start": "node src/index.js"
+  }
+}
